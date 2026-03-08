@@ -46,6 +46,8 @@ Modern macOS Sonoma tarzı kart tasarım:
 
 ---
 
+İndir https://github.com/ModelPC/istem-Bilgi-v1.1/releases/download/macos-app/Sistem.Bilgi.version.1.1.zip<img width="875" height="700" alt="macos app" src="https://github.com/user-attachments/assets/7123c8dc-306e-4391-866b-64eabf95736e" />
+
 
 ```bash
 git clone https://github.com/kullaniciadi/sistem-bilgi.git
