@@ -46,11 +46,7 @@ Modern macOS Sonoma tarzı kart tasarım:
 
 ---
 
-## 🚀 Kurulum
 
-1. Xcode 14+ veya üzeri gereklidir.
-2. macOS 13.0 veya üzeri gereklidir.
-3. Projeyi klonlayın:
 
 ```bash
 git clone https://github.com/kullaniciadi/sistem-bilgi.git
