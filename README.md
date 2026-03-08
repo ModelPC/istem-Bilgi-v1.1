@@ -47,6 +47,5 @@ Modern macOS Sonoma tarzı kart tasarım:
 ---
 
 
-
 ```bash
 git clone https://github.com/kullaniciadi/sistem-bilgi.git
